@@ -3,14 +3,13 @@
 
 We're passionate about baking fresh, 
 
-Delicious treat every day. From gooey 
+Delicious treats every day. 
 
-Cookies to decadent cakes, everything is made with love and the finest ingredients. 
-
- we make the best cakes,cookies &cupcakes 
- the colours of our business is pink ,brown and wheat 
- pink represnts: nostalgia ,warmth, sweetness and joy 
- brown represents: comfort and homemade
- wheat represents: simplicity,wholesomeness,healthy and natural ingredients 
- 
+Cookies to decadent cakes, everything is made with love and the finest ingredients.
+The Mamma Ruby Bakery website features a warm and welcoming design with soft background tones, a cheerful pink navigation bar, and elegant typography. The layout highlights the bakery’s name and slogan prominently and presents product images in a neat, inviting gallery. Overall, the styling reflects comfort, friendliness, and a handcrafted bakery feel.
+ We make the best cakes, cookies, and cupcakes.
+Our brand colors are pink, brown, and wheat.
+Pink represents nostalgia, warmth, sweetness, and joy.
+Brown symbolizes comfort and the feeling of homemade goodness.
+Wheat stands for simplicity, wholesomeness, health, and natural ingredients
   
