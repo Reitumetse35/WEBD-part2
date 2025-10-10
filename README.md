@@ -19,6 +19,12 @@ our aim is to ensure that everyone feels valued by buliding an  inclusive
 we would love to expand customers loyalty 
 lastly  we want to make our customiers  life easier for them ,especally when there is an event at home ( weddings,birthday party ,traditional celebrations etc) where the customier doesnt have to worry about cakes arriving on time ,its our job to do so ,by doing this we make the customier feel calm 
 
+Reference
+Hostinger (2 MAR) Hostinger [Online] Available at:
+https://www.techradar.com/pro/website-building/hostinger-just-unlocked-an-excitingnew-revenue-stream-for-users
+Pexels (2025) Free Biscuits Photos. [Online] Available at:
+https://www.pexels.com/search/biscuits/
+W3Schools (2025) CSS Tutorial. [Online] Available: https://www.w3schools.com/
 
 
 
