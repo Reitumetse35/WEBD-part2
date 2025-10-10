@@ -25,5 +25,7 @@ Add
 - on the cart html page we added a form that allow user to enter banking details
 - a subtotal banner user knows how much everything cost
 - linked navbar to all pages
-- on readfile added our goals
+- on read-file added our goals
+- added referance on read-me-file
+- 
 - 
