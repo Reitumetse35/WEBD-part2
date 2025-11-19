@@ -3,7 +3,7 @@ changelog
 - Initial release of the project
 - Homepage layout created
 - Added an About us,product page ,service page ,connect us page
--  
+-  .
 Fix
 - Corrected typo in navigation bar
 - ensure that images show on the product page
